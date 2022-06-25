@@ -6,11 +6,11 @@ Conversion from ColorOS to OxygenOS
 this is to help others who have bought the Oneplus 9rt 5G and want to change from colorOS to OxygenOS to obtain access to google play store
 
 
-#Rom Link
+# Rom Link
 https://forum.xda-developers.com/t/fastboot-rom-unofficial-op9rt-oxygenos-a-04-a-08-for-mt2110-devices.4404719/
 
 
-#Steps
+# Steps
 There are various guides that will teach you how to do this but I ran into many issues on windows atleast
 so to help future guys who want to put a custom OS on their imported genshin phone
 
